@@ -1,0 +1,1 @@
+# Gabarit React/Vite utilisé dans le cours de React (582-4PA) TIM H2025
